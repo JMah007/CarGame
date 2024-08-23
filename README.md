@@ -6,7 +6,7 @@
 
 #### Valgrind was introduced in this project to detect memory access errors or memory leaks
 
-### The most difficult components I encountered involved designing the program in a way that code could be reused as much as possible
+#### The most difficult components I encountered involved designing the program in a way that code could be reused as much as possible
 
 ## How to Run the Program
 #### To compile the program enter make
